@@ -1,6 +1,7 @@
 # HUYA Stream Picker
 
 A desktop application for watching multiple HUYA streams simultaneously with real-time availability checking.
+Tested on Archlinux only
 
 ![HUYA Stream Picker Preview](preview.png)
 
