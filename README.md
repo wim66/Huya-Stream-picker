@@ -164,3 +164,17 @@ This project is provided as-is for personal use.
 ## Credits
 
 Built with Python, tkinter, and streamlink.
+
+## Manually watch the streams with streamlink:
+
+- HUYA Tables 1–4:
+- streamlink -v --title=T1 https://m.huya.com/20072620 tx_2000K
+- streamlink -v --title=T2 https://m.huya.com/20072621 tx_2000K
+- streamlink -v --title=T3 https://m.huya.com/18501408 tx_2000K
+- streamlink -v --title=T4 https://m.huya.com/18501324 tx_2000K
+- HUYA Tables 5–8:
+- streamlink -v --title=T5 https://m.huya.com/17455465 tx_2000K
+- streamlink -v --title=T6 https://m.huya.com/18501329 tx_2000K
+- streamlink -v --title=T7 https://m.huya.com/18501166 tx_2000K
+- streamlink -v --title=T8 https://m.huya.com/17611732 tx_2000K
+- Available streams: al_2000k (worst), tx_2000k, hs_2000k, al_4000k, tx_4000k, hs_4000k, al_8000k, tx_8000k, hs_8000k, al_source, tx_source, hs_source (best)
